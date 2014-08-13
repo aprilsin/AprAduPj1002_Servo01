@@ -1,8 +1,11 @@
-/*********************************
+/**********************************************************
  * Title: Servo Angle Control 001
  * Date: 2014-08-12
  * By: April
- **********************************/
+ 
+ Description:
+ Using delays to control the width of duty cycles digitally
+ ***********************************************************/
 #define  servoPin  11
 
 void setup() {
